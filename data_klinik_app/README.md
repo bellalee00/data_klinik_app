@@ -29,7 +29,7 @@ Pengguna yang dapat memakai sitem ini adalah hanya Admin.
         <img src="assets/img/pegawai_page.jpg"><br>
         </td>
     <td width="33%">
-        <h5 style="text-align: center">Form Detai Pegawai</h5>
+        <h5 style="text-align: center">Form Detail Pegawai</h5>
         <img src="assets/img/detail_pegawai_page.jpg"><br>
         </td>
         </tr>
